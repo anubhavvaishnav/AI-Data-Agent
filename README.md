@@ -20,7 +20,7 @@ Right now it uses a dummy SQLite DB of manufacturing machines, but the concept s
 **Setup & Run**
 
 **1. Clone the repo:**
-git clone https://github.com/anubhav12/AI-Data-Agent.gitcd AI-Data-Agent
+git clone (https://github.com/anubhavvaishnav/AI-Data-Agent)
 
 **2. Install dependencies:**
 ```bash
